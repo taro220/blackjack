@@ -1,0 +1,37 @@
+.playersGUI, .dealerGUI {
+  display: block;;
+  height: 200px;
+  width: 900px;
+  border: 1px solid black;
+  margin: 5px;
+  padding: 10px;
+}
+
+.playersCards, .dealerCards{
+  display: block;
+  height: 125px;
+}
+
+.playersButtons, .dealerButtons{
+  display: block;
+  height: 30px;
+}
+
+.playersGUI .playersButtons ul, .dealerButtons ul{
+  margin: 7px;
+  display: inline-block;
+}
+
+.playersGUI .playersButtons li, .dealerButtons li{
+  text-align: left;
+  display: inline-block;
+  margin: 2px;
+}
+
+img{
+  margin-left: 3px;
+}
+.bet_labels{
+  display: inline-block;
+  margin: 10px;
+}

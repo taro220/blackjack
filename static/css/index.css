@@ -1,0 +1,23 @@
+.board {
+  border: 1px solid black;
+}
+
+.message {
+  padding: 0;
+}
+
+ul{
+  display: inline-block;
+  list-style: none;
+}
+
+.top-buffer { margin-top:20px; }
+
+.black_jack_table {
+  /*border: 1px solid black;*/
+}
+.player {
+  height: 200px;
+  border-bottom: 1px solid black;
+
+}
